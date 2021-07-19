@@ -1,6 +1,4 @@
-Hi I'm Fabio Nozoy.
-
-Let me introduce my self.
+Hi I'm Fabio Nozoy. Currently working on Ford Motor Company as Tech Lead in web software development.
 
 28 years in Systems Development, 18 most recent years in solutions with Java Web applications and 10 years back with Cobol in mainframe and Unix.
 
